@@ -6,7 +6,9 @@
 
                 <h4 class="modal-title">{{ $title }}</h4>
             </div>
-
+            <div>
+                <p>Hi pro</p>
+             </div>
             <div class="modal-body">
                 <p>{!! $body !!}</p>
             </div>
